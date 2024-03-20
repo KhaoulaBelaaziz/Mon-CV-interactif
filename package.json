@@ -1,0 +1,16 @@
+{
+  "name": "mon-cv-interactif",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "serve": "http-server . -p 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gh repo clone KhaoulaBelaaziz/Mon-CV-interactif"
+  },
+  "author": "",
+  "license": "ISC"
+}
